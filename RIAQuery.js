@@ -1,4 +1,0 @@
-var RIAQuery = function()
-{
-
-};
